@@ -1,3 +1,4 @@
 Skrypt Pythona - wyświetlanie tekstu i zmiennej. 
 
-![](E:\Python\podyplomowe\lab1\logo.png)
+
+<img alt="logo" height="200" src="E:\Python\podyplomowe\lab1\logo.png" title="logo" width="300"/>   
